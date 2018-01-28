@@ -1,0 +1,288 @@
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-south-1",
+    "ZoneName": "ap-south-1a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-south-1",
+    "ZoneName": "ap-south-1b"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-3",
+    "ZoneName": "eu-west-3a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-3",
+    "ZoneName": "eu-west-3b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-3",
+    "ZoneName": "eu-west-3c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-2",
+    "ZoneName": "eu-west-2a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-2",
+    "ZoneName": "eu-west-2b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-2",
+    "ZoneName": "eu-west-2c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-1",
+    "ZoneName": "eu-west-1a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-1",
+    "ZoneName": "eu-west-1b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-west-1",
+    "ZoneName": "eu-west-1c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-northeast-2",
+    "ZoneName": "ap-northeast-2a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-northeast-2",
+    "ZoneName": "ap-northeast-2c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-northeast-1",
+    "ZoneName": "ap-northeast-1a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-northeast-1",
+    "ZoneName": "ap-northeast-1c"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-northeast-1",
+    "ZoneName": "ap-northeast-1d"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "sa-east-1",
+    "ZoneName": "sa-east-1a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "sa-east-1",
+    "ZoneName": "sa-east-1c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ca-central-1",
+    "ZoneName": "ca-central-1a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ca-central-1",
+    "ZoneName": "ca-central-1b"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-southeast-1",
+    "ZoneName": "ap-southeast-1a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-southeast-1",
+    "ZoneName": "ap-southeast-1b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-southeast-1",
+    "ZoneName": "ap-southeast-1c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-southeast-2",
+    "ZoneName": "ap-southeast-2a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-southeast-2",
+    "ZoneName": "ap-southeast-2b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "ap-southeast-2",
+    "ZoneName": "ap-southeast-2c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-central-1",
+    "ZoneName": "eu-central-1a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-central-1",
+    "ZoneName": "eu-central-1b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "eu-central-1",
+    "ZoneName": "eu-central-1c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-1",
+    "ZoneName": "us-east-1a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-1",
+    "ZoneName": "us-east-1b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-1",
+    "ZoneName": "us-east-1c"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-1",
+    "ZoneName": "us-east-1d"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-1",
+    "ZoneName": "us-east-1e"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-1",
+    "ZoneName": "us-east-1f"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-2",
+    "ZoneName": "us-east-2a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-2",
+    "ZoneName": "us-east-2b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-east-2",
+    "ZoneName": "us-east-2c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-west-1",
+    "ZoneName": "us-west-1b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-west-1",
+    "ZoneName": "us-west-1c"
+  }
+]
+[
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-west-2",
+    "ZoneName": "us-west-2a"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-west-2",
+    "ZoneName": "us-west-2b"
+  },
+  {
+    "State": "available",
+    "Messages": [],
+    "RegionName": "us-west-2",
+    "ZoneName": "us-west-2c"
+  }
+]
